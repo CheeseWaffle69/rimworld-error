@@ -859,3 +859,101 @@ This message has been deprecated and will be removed in a later version of Unity
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
 (Filename:  Line: 369)
 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 15)
+
+Unloading 1082 unused Assets to reduce memory usage. Loaded Objects now: 125674.
+Total: 3640.063800 ms (FindLiveObjects: 10.033400 ms CreateObjectMapping: 12.972500 ms MarkObjects: 3615.100100 ms  DeleteObjects: 1.957500 ms)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 15)
+UnloadTime: 0.273500 ms
+FileNotFoundException: Cannot resolve dependency to assembly because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.
+
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 136528.
+Total: 3399.885500 ms (FindLiveObjects: 5.286200 ms CreateObjectMapping: 12.831600 ms MarkObjects: 3381.553700 ms  DeleteObjects: 0.212900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 15)
+Found 6 stone defs: BlocksSandstone, BlocksGranite, BlocksLimestone, BlocksSlate, BlocksMarble, BlocksHempcrete
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 145050.
+Total: 5127.681700 ms (FindLiveObjects: 9.694000 ms CreateObjectMapping: 14.066500 ms MarkObjects: 5103.560700 ms  DeleteObjects: 0.359700 ms)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+[Ref 14091D19] Duplicate stacktrace, see ref for original
+ 
+(Filename:  Line: -1)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+[Ref 14091D19] Duplicate stacktrace, see ref for original
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 15)
+UnloadTime: 0.631400 ms
+
+Unloading 11182 unused Assets to reduce memory usage. Loaded Objects now: 128780.
+Total: 3281.053300 ms (FindLiveObjects: 10.734700 ms CreateObjectMapping: 14.306800 ms MarkObjects: 3242.171500 ms  DeleteObjects: 13.840000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
+
+Unloading 292 unused Assets to reduce memory usage. Loaded Objects now: 128936.
+Total: 3445.117800 ms (FindLiveObjects: 5.300600 ms CreateObjectMapping: 13.898700 ms MarkObjects: 3423.711000 ms  DeleteObjects: 2.205800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
+UnloadTime: 0.297000 ms
+FileNotFoundException: Cannot resolve dependency to assembly because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.
+
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 139662.
+Total: 3212.843000 ms (FindLiveObjects: 5.292800 ms CreateObjectMapping: 13.234200 ms MarkObjects: 3194.135100 ms  DeleteObjects: 0.180600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 147771.
+Total: 4835.816700 ms (FindLiveObjects: 6.678000 ms CreateObjectMapping: 14.956400 ms MarkObjects: 4813.995000 ms  DeleteObjects: 0.187000 ms)
+
